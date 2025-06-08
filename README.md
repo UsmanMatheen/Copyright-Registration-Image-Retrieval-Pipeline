@@ -13,10 +13,15 @@ This repository contains a scalable method for retrieving copyright registration
 ## 📂 Repository Structure
 
 ├── pipeline.ipynb or pipeline.py # Main script or notebook
+
 ├── copyright_records.csv # Provided spreadsheet data
+
 ├── sample copyright/ # Reference image folder (.webp files)
+
 ├── matched_output/ # [Empty unless matches are found]
+
 ├── matched_summary.csv # [Empty unless matches are found]
+
 └── README.md # This file
 
 
